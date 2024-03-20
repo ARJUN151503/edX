@@ -28,6 +28,7 @@ This capstone project course will give you a taste of what data scientists go th
 
 - [Interactive Visual Analytics with Folium](https://github.com/ARJUN151503/edX/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
 - [Extracting and Visualizing Stock Data](https://github.com/ARJUN151503/edX/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+- [Analyse Plots](https://github.com/ARJUN151503/edX/blob/main/app.py)
 
 ## 4️⃣ Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
 
